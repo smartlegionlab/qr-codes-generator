@@ -17,7 +17,7 @@ Author and developer: ___A.A. Suvorov___
 After launch:
 
 - Enter text or url.
-- Enter the name of the final fileа.
+- Enter the name of the final file.
 
 1. A folder "qr_codes" will be created in which a file with the specified name will appear.
 
