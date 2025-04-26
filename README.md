@@ -1,4 +1,4 @@
-# qr_codes_generator <sup>v0.0.2</sup>
+# qr-codes-generator <sup>v0.0.3</sup>
 Qr codes generator.
 
 ---
@@ -23,7 +23,7 @@ After launch:
 
 Example:
 
-![logo](https://github.com/smartlegionlab/qr_codes_generator/raw/master/data/images/smartlegionlab.png)
+![logo](https://github.com/smartlegionlab/qr-codes-generator/raw/master/data/images/smartlegionlab.png)
 
 ***
 
@@ -46,6 +46,6 @@ Example:
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2024, A.A. Suvorov
+    Copyright © 2024-2025, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------
